@@ -1,0 +1,14 @@
+C:\Users\Abby\source\repos\MuiltArchTest\MuiltArchTest\bin\Debug\net10.0\win-x64\MuiltArchTest.exe
+C:\Users\Abby\source\repos\MuiltArchTest\MuiltArchTest\bin\Debug\net10.0\win-x64\MuiltArchTest.deps.json
+C:\Users\Abby\source\repos\MuiltArchTest\MuiltArchTest\bin\Debug\net10.0\win-x64\MuiltArchTest.runtimeconfig.json
+C:\Users\Abby\source\repos\MuiltArchTest\MuiltArchTest\bin\Debug\net10.0\win-x64\MuiltArchTest.dll
+C:\Users\Abby\source\repos\MuiltArchTest\MuiltArchTest\bin\Debug\net10.0\win-x64\MuiltArchTest.pdb
+C:\Users\Abby\source\repos\MuiltArchTest\MuiltArchTest\obj\Debug\net10.0\win-x64\MuiltArchTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Abby\source\repos\MuiltArchTest\MuiltArchTest\obj\Debug\net10.0\win-x64\MuiltArchTest.AssemblyInfoInputs.cache
+C:\Users\Abby\source\repos\MuiltArchTest\MuiltArchTest\obj\Debug\net10.0\win-x64\MuiltArchTest.AssemblyInfo.cs
+C:\Users\Abby\source\repos\MuiltArchTest\MuiltArchTest\obj\Debug\net10.0\win-x64\MuiltArchTest.csproj.CoreCompileInputs.cache
+C:\Users\Abby\source\repos\MuiltArchTest\MuiltArchTest\obj\Debug\net10.0\win-x64\MuiltArchTest.dll
+C:\Users\Abby\source\repos\MuiltArchTest\MuiltArchTest\obj\Debug\net10.0\win-x64\refint\MuiltArchTest.dll
+C:\Users\Abby\source\repos\MuiltArchTest\MuiltArchTest\obj\Debug\net10.0\win-x64\MuiltArchTest.pdb
+C:\Users\Abby\source\repos\MuiltArchTest\MuiltArchTest\obj\Debug\net10.0\win-x64\MuiltArchTest.genruntimeconfig.cache
+C:\Users\Abby\source\repos\MuiltArchTest\MuiltArchTest\obj\Debug\net10.0\win-x64\ref\MuiltArchTest.dll
